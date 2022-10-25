@@ -1,6 +1,10 @@
 #level 1
 #Day 2: 30 Days of python programming
 #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
+from cProfile import run
+from calendar import c
+
+
 first_name="Alberto"
 last_name="Apario"
 full_name="Alberto_Aparicio"
@@ -45,3 +49,26 @@ num_product=num_one * num_two
 print(num_product)
 num_divide=num_one/num_two
 print(num_divide)
+num_expo=num_two**num_one
+print(num_expo)
+
+
+
+
+r=30
+aera_of_circle=3.14*r**2
+print(aera_of_circle)
+
+circum_of_circle=2*3.14*r
+print(circum_of_circle)
+
+
+radio=input("¿cual es el radio?")
+radio2=int(radio)
+area=3.14*radio2**2
+print(area)
+
+run 
+help('keywords')
+
+
