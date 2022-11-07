@@ -51,13 +51,14 @@ num_divide=num_one/num_two
 print(num_divide)
 num_expo=num_two**num_one
 print(num_expo)
-
+num_floor=num_one//num_two
+print(num_floor)
 
 
 
 r=30
-aera_of_circle=3.14*r**2
-print(aera_of_circle)
+area_of_circle=3.14*r**2
+print(area_of_circle)
 
 circum_of_circle=2*3.14*r
 print(circum_of_circle)
