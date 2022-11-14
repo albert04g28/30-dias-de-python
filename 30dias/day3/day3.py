@@ -35,7 +35,7 @@ print(y)
 
 y2=10
 y1=2
-x1=2
+x1=2    
 x2=6
 m=y2-y1/x2-x1
 print(m)
@@ -43,4 +43,33 @@ euclidian_distance=(x2-x1+y2-y1)**0.5*2
 print(euclidian_distance)
 
 
+
+y != m
+print(y != m)
+
+
+
+
+x=3
+y= x**2+6*x+9
+print(y)
+x2=1
+y2=x2**2+6*x2+9
+print(y2)
+x3=-3
+y3=x3**2+6*x3+9
+print(y3)
+
+
+
+
+print(len("python"))
+print(len("dragon"))
+print(len("dragon") != len("python"))
+
+
+
+
+
+print("on" in "python", "on" in "dragon")
 
