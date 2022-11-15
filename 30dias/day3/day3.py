@@ -57,6 +57,7 @@ print(y != m)
 
 
 
+
 x=3
 y= x**2+6*x+9
 print(y)
@@ -102,6 +103,11 @@ print(par)
 division=7/3
 division != 2.7
 print(division == 2.7)
+
+
+
+print("10"==10)
+
 
 
 
