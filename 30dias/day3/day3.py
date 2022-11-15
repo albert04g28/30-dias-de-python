@@ -50,6 +50,13 @@ print(y != m)
 
 
 
+
+
+
+
+
+
+
 x=3
 y= x**2+6*x+9
 print(y)
@@ -72,4 +79,30 @@ print(len("dragon") != len("python"))
 
 
 print("on" in "python", "on" in "dragon")
+
+
+sentence="course is not full of jargon"
+sentencein="jargon" in sentence
+print(sentencein)
+
+
+
+
+print("on" not  in "python", "on" not in "dragon")
+
+
+
+D=2
+par=D/2 
+print(par)
+
+
+
+
+division=7/3
+division != 2.7
+print(division == 2.7)
+
+
+
 
