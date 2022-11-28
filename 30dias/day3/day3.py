@@ -110,5 +110,22 @@ print("10"==10)
 
 
 
+print(9.8==10)
+
+
+
+hours=28
+rate_per_hour=4
+weekly_earning=28*4
+print(weekly_earning)
+
+
+years=17
+second=31536000
+print(years*second)
+
+
+
+
 
 
