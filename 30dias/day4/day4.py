@@ -50,3 +50,19 @@ print(len("coding_for_all")) != print(len("coding"))
 
 
 
+company2="coding for all"
+print(company2.replace('coding', 'python'))
+
+
+
+company3="python for all"
+print(company3.replace("python","everyone"))
+print((company2.replace('coding', 'python')).replace("python","everyone"))
+
+
+
+
+print(company.split())
+
+
+
