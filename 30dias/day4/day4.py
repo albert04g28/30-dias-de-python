@@ -66,3 +66,42 @@ print(company.split())
 
 
 
+print("Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon".split(','))
+
+
+
+print(company[0])
+
+
+
+
+print(len(company) - 1)
+
+
+
+
+print(company[10])
+
+
+palabras = "Python For Everyone".split()
+print(palabras[0][0] + palabras[1][0] + palabras[2][0])
+
+
+
+palabras2 = 'Coding For All'.split()
+print(palabras2[0][0] + palabras2[1][0] + palabras2[2][0])
+
+
+
+
+print("Coding For All".index('C'))
+
+
+
+print("Coding For All".index('F'))
+
+
+
+
+print("Coding For All People".rfind('l'))
+
