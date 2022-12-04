@@ -105,3 +105,21 @@ print("Coding For All".index('F'))
 
 print("Coding For All People".rfind('l'))
 
+
+
+print('You cannot end a sentence with because because because is a conjunction'.find('because'))
+
+
+
+print('You cannot end a sentence with because because because is a conjunction'.rfind('because'))
+
+
+
+print('You cannot end a sentence with because because because is a conjunction'.replace('because because because', ''))
+
+
+print('You cannot end a sentence with because because because is a conjunction'.find('because'))
+
+
+print('You cannot end a sentence with because because because is a conjunction'.replace('because because because', ''))
+
