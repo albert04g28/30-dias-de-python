@@ -26,3 +26,29 @@ print(type(student["skills"]))
 student["skills"]="program","lift_weights"
 print(student["skills"])
 
+
+
+
+print(student)
+
+keys=student.keys()
+print(keys)
+
+
+
+print(student.items())
+
+
+
+del student["skills"]
+
+
+
+del student
+
+
+
+
+
+
+
